@@ -1,0 +1,6 @@
+framework module Pods_DemoSendBirdChatApp {
+  umbrella header "Pods-DemoSendBirdChatApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
